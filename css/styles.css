@@ -1,0 +1,23 @@
+body {
+  background-color: #FCF6E8;
+  color: #503024;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 4rem;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
