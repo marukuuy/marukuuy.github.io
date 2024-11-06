@@ -6,6 +6,6 @@ function changeText() {
         document.getElementById("text").innerHTML = "Well, if you want";
     } else if (text === "Well, if you want") {
         alert("Here's a cool MV from JKT48 for you 🙂");
-        window.location.href = "https://www.youtube.com/watch?v=mRMQsp90mFM";
+        window.location.href = "https://www.youtube.com/watch?v=taE4wnmDHhU";
     }
 }
